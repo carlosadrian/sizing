@@ -1,2 +1,2 @@
 # sizing
-Sizing appends a size label to elements matched by a selector.
+Sizing appends a label with block dimensions, width & height, to elements matched by a selector.

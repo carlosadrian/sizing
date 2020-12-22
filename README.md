@@ -19,14 +19,15 @@ Default with `zIndex` parameter as `true`
 ## Installation
 
 Just add `sizing.js` to your project, it will match by default all parent containers with `.sizing` class.
-`
-<div class="sizing">
-	<div class="child"></div>
-	<div class="child"></div>
-	<div class="child"></div>
-	<!-- and so on... -->
-</div>
-`
+
+
+    <div class="sizing">
+        <div class="child"></div>
+        <div class="child"></div>
+        <div class="child"></div>
+        <!-- and so on... -->        
+    </div>
+
 
 You can provide another CSS selector using the `Sizing(<selector>)` initialiser.
 
@@ -35,14 +36,16 @@ Optionally, add `sizing.css` stylesheet, it sets default styling for size labels
 ###Custom parent selector
 
 **HTML**
-`
-<div class="parent">
-	<div class="child"></div>
-	<div class="child"></div>
-	<div class="child"></div>
-	<!-- and so on... -->
-</div>
-`
+
+
+
+    <div class="parent">
+        <div class="child"></div>
+        <div class="child"></div>
+        <div class="child"></div>
+        <!-- and so on... -->
+    </div>
+
 
 **JS**
 

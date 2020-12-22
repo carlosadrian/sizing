@@ -24,7 +24,7 @@ Just add `sizing.js` to your project, it will match by default all parent contai
 	<div class="child"></div>
 	<div class="child"></div>
 	<div class="child"></div>
-	<!-- and so on... ->
+	<!-- and so on... -->
 </div>
 `
 
@@ -40,7 +40,7 @@ Optionally, add `sizing.css` stylesheet, it sets default styling for size labels
 	<div class="child"></div>
 	<div class="child"></div>
 	<div class="child"></div>
-	<!-- and so on... ->
+	<!-- and so on... -->
 </div>
 `
 
